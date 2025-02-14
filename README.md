@@ -22,9 +22,10 @@ Then upload to SPIFFS with (or use the gui)
 
 > pio run --target uploadfs
 
-# License
 
-[GNU GENERAL PUBLIC LICENSE](./LICENSE)
+## License
+
+[CC4r](https://constantvzw.org/wefts/cc4r.en.html)
 
 ## Remarks 
 based off https://github.com/CybDis/Lilygo-T5-4.7-WeatherStation-with-HomeAssistant
